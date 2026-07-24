@@ -25,5 +25,9 @@ while guess != jackpot:
 print("Sahi Jawab")
 print("You took",counter,"attempts")
 
+# divide code in short modules
+# focus on core logic and then think about additional logics
+# short logic socho phr usko bada kro phr usko bada kro and u will reach ur end goal
+
 
 
